@@ -1,3 +1,5 @@
+#author: Esteban Salpeter
+#author's email: esteban.salpeter@yahoo.com.ar
 def primes_between(min,max):
 #init
 	mx = round(max/2,0)+1
