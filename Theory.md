@@ -1,5 +1,6 @@
 # PyPrimes - Theory
 This is part of the package PyPrimes by Esteban Salpeter
+
 autor's email: esteban.salpeter@yahoo.com.ar
 
 This document is intended to support theoretically the algorithms implemented
