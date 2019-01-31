@@ -93,9 +93,9 @@ def primes_between(min, max, strategy=0):
 
 
 def is_prime(num):
-    last = num % 10
     if num in [1, 2, 3, 5, 7]:
         return True
+    last = num % 10
     if last in [2, 4, 5, 6, 8, 0]:
         return False
     p = primes_between(num - 1, num + 1, 1)
