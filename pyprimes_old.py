@@ -1,3 +1,5 @@
+#deprecated after algorithm simplification
+
 #author: Esteban Salpeter
 #author's email: esteban.salpeter@yahoo.com.ar
 def primes_between(min,max,strategy=0):

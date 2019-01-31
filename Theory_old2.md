@@ -1,4 +1,6 @@
 # PyPrimes - Theory
+#deprecated after algorithm simplification
+
 This is part of the package PyPrimes by Esteban Salpeter
 autor's email: esteban.salpeter@yahoo.com.ar
 
